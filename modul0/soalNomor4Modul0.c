@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main () {
+int main()
+{
     // Inisialisasi
     int A, B, C, D, E, total;
     double sum;

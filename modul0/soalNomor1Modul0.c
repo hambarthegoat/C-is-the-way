@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main () {
+int main()
+{
     // Inisialisasi
     int A, B, C;
 
@@ -8,7 +9,7 @@ int main () {
     scanf("%d %d", &A, &B);
 
     // Operasi aritmatika
-    C = A - B;
+    C = B - A;
 
     // Output
     printf("%d", C);
