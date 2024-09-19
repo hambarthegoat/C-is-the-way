@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main () {
+int main()
+{
 
     // Inisialisasi
     int A, B, C;
@@ -12,7 +13,7 @@ int main () {
     // Operasi artimatika
     D = A + B;
     E = D / C;
-    
+
     // Output
     printf("%.2f", E);
 
